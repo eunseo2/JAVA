@@ -15,8 +15,9 @@
 
 분류|제목|링크|
 |---|---|---|
-|Java|객체지향 프로그래밍 및 특성|[TIL #10 객체지향 (JAVA)](https://velog.io/@eunseo2/TIL-10-%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-JAVA)|
-|Java|Interface|[TIL #11 Interface (JAVA)](https://velog.io/@eunseo2/TIL-11-Interface-JAVA)|
+|Java|객체지향 프로그래밍 및 특성|[TIL #10 객체지향](https://velog.io/@eunseo2/TIL-10-%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-JAVA)|
+|Java|Interface|[TIL #11 Interface](https://velog.io/@eunseo2/TIL-11-Interface-JAVA)|
 |Java|default Method|[TIL #12 default Method](https://velog.io/@eunseo2/TIL-12-default-Method-JAVA)|
 |Java|Functional Interface|[TIL #13 Functional Interface](https://velog.io/@eunseo2/TIL-13-Functional-Interface-JAVA)|
 |Java|Collection|[TIL #14 Collection](https://velog.io/@eunseo2/TIL-14-Collection-JAVA)|
+|Java|Final|[TIL #15 Final](https://velog.io/@eunseo2/TIL-15-Java-Final)|
